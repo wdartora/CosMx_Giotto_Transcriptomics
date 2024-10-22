@@ -13,6 +13,7 @@ Output directory for saving results. <br>
 Python environment: <br>
 Optionally, specify the path to a Python executable within a conda environment. <br>
  <br>
+
 ## Steps in the Pipeline <br>
 1. Create Giotto CosMx Object <br>
 Loads spatial transcriptomics data from the specified directory. <br>
@@ -44,6 +45,7 @@ Custom Color Palettes <br>
 The pipeline uses custom color palettes for plotting, defined at the beginning of the script (pal10, viv10, pal13). You can modify these to customize the appearance of the plots.
  <br>
 Output <br>
+
 ## The pipeline produces a variety of outputs: <br>
  <br>
 Plots for feature and cell distribution in spatial and dimension-reduced space. <br>
