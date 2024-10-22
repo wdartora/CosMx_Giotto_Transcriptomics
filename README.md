@@ -44,7 +44,7 @@ Visualizes genes and clustering results within the subset. <br>
 Custom Color Palettes <br>
 The pipeline uses custom color palettes for plotting, defined at the beginning of the script (pal10, viv10, pal13). You can modify these to customize the appearance of the plots.
  <br>
-Output <br>
+
 
 ## The pipeline produces a variety of outputs: <br>
  <br>
